@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## NAME : MADHAN C 
+## REG NO : 212224240081
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
